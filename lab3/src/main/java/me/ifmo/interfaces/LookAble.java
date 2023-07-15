@@ -1,6 +1,6 @@
 package me.ifmo.interfaces;
 
 @FunctionalInterface
-public interface ExistAble{
-    String exist();
+public interface LookAble{
+    String look();
 }

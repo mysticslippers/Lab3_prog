@@ -1,6 +1,6 @@
 package me.ifmo.interfaces;
 
 @FunctionalInterface
-public interface RageAble{
-    String rage();
+public interface StayAble{
+    String stay();
 }
