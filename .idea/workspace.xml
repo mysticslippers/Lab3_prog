@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad8ec3af-c3be-44b9-ae29-587f4f4addab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/ifmo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/ifmo/Main.java" afterDir="false" />
+    <list default="true" id="ad8ec3af-c3be-44b9-ae29-587f4f4addab" name="Changes" comment="Preparing">
+      <change afterPath="$PROJECT_DIR$/lab3/src/main/java/me/ifmo/abstractions/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/src/main/java/me/ifmo/creatures/Nurse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/src/main/java/me/ifmo/creatures/Pulka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/src/main/java/me/ifmo/enums/Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/src/main/java/me/ifmo/enums/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/src/main/java/me/ifmo/interfaces/ExistAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/src/main/java/me/ifmo/interfaces/RageAble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/src/main/java/me/ifmo/Story.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/src/main/java/me/ifmo/Story.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +26,20 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SZdio3tRgQzUOHeVEG6WXkFxU5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,14 +47,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,11 +69,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689358170103</updated>
-      <workItem from="1689358170929" duration="190000" />
+      <workItem from="1689358170929" duration="722000" />
+      <workItem from="1689411650620" duration="6413000" />
     </task>
+    <task id="LOCAL-00001" summary="Preparing">
+      <created>1689358652075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689358652075</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Preparing">
+      <created>1689358665777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689358665777</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Preparing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Preparing" />
   </component>
 </project>
